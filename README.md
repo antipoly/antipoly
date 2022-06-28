@@ -1,6 +1,5 @@
 ### Hi
-I'm currently working on a discord bot. Check it out:
-https://dsc.gg/logic-link
+Experienced programmer familiar with roblox lua and javascript.
 
 <!--
 **Logic-Mastermind/Logic-Mastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
