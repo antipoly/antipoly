@@ -1,5 +1,9 @@
 ### Hi
-Experienced programmer familiar with roblox lua and javascript.
+**Backend developer**\
+Experienced with Nodejs and Express applications
+
+Currently working on ranking bot and all the subsystems, including its API, Site and backend infrastructure.\
+Im lowkey out of project ideas 🥱
 
 <!--
 **Logic-Mastermind/Logic-Mastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
