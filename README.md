@@ -1,9 +1,8 @@
 ### Hi
-**Backend developer**\
-Experienced with Nodejs and Express applications
+**Backend Developer**\
+Experienced with Node.js and Express applications
 
-Currently working on ranking bot and all the subsystems, including its API, Site and backend infrastructure.\
-Im lowkey out of project ideas 🥱
+Currently working with C/C++, soon to begin making Unity games with C#.
 
 <!--
 **Logic-Mastermind/Logic-Mastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
