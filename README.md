@@ -1,7 +1,6 @@
 ### Hi
 **Backend Developer**\
-Experienced with Node.js and Express applications
-
+Experienced with Node.js and Express applications.\
 Currently working with C/C++, soon to begin making Unity games with C#.
 
 <!--
