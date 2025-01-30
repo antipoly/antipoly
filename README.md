@@ -1,7 +1,7 @@
 ### **Hello, World! 👋**
 
 
-Programmer, Physics and Geology Lover, and Future Flight Student! ✈️
+Programmer, Physics and Geography Lover, and aspiring Airline Pilot! ✈️
 
 Experienced so far with Typescript, PHP and Lua.\
 Still learning the ropes with C++ and Rust 🦀.
